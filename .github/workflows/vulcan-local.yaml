@@ -26,6 +26,6 @@ jobs:
       - uses: actions/checkout@v3
 
       # Runs a single command using the runners shell
-      - uses: eloymg/vulcan-local/action@vmaster
+      - uses: eloymg/vulcan-local/action@master
         with:
           checktypes: https://vulcan-local-checktypes-spain.s3.eu-west-1.amazonaws.com/checktypes-stable.json
