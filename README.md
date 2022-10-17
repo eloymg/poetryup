@@ -1,4 +1,4 @@
-# PoetryUp
+# PoetryUpa
 
 ![build](https://github.com/MousaZeidBaker/poetryup/workflows/Publish/badge.svg)
 ![test](https://github.com/MousaZeidBaker/poetryup/workflows/Test/badge.svg)
